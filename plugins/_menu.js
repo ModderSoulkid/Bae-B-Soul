@@ -21,7 +21,7 @@ bot.addCommand(
     })
     const [date, time] = getDate()
     let CMD_HELP = `╭────────────────╮
-						ʟᴇᴠᴀɴᴛᴇʀ
+						Bae-b Soul
 ╰────────────────╯
 
 ╭────────────────
@@ -90,7 +90,7 @@ bot.addCommand(
       }
     })
     const [date, time] = getDate()
-    let msg = `\`\`\`╭═══ LEVANTER ═══⊷
+    let msg = `\`\`\`╭═══ Bae-B Soul ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${ctx.PREFIX}
 ┃❃│ User : ${message.pushName}
